@@ -1,0 +1,7 @@
+﻿Id,UserName,Password,FacultyId,Faculty_FirstName,Faculty_MiddleName,Faculty_LastName,RoleName,Gender,DOB,BloodGroup,FacultyMobileNo_1,FacultyMobileNo_2,Email,Address,CreatedBy
+,VIDHYA1,VIDHYA,23SVSSVI,VIDHYA,,S,TEACHER,FEMALE,03-09-1988,B +ve,8870697292,9489428499,vidhya.svps@sonatech.ac.in,"1/1 - 474, RASI NAGAR, STEEL PLANT, SALEM",
+,HARINI1,HARINI,23SVSTHI,HARINI,THIYAGARAJAN,,TEACHER,FEMALE,25-03-1999,A1 -ve,9585698429,9443759901,harini.svps@sonatech.ac.in,"99 / 88, PARAMAKUDI NANNUSAMI STREET, SALEM",
+,KAYATHRI.R1,KAYATHRI.R,22SVSKAY,Kayathri,,R,TEACHER,FEMALE,06-12-1987,AB +ve,9952423646,8946089968,kayathri06@gmail.com,"428,3rd cross,AnbuNagar,Gorimedu,Salem-636008",
+,K.N.R1,K.N.R,22SVSVRMA,MANCHUSHA ,KN,R,TEACHER,FEMALE,24-07-1990,B +ve,9894340326,,knrmanchusha@gmail.com,"428,3rd cross,AnbuNagar,Gorimedu,Salem-636008",
+,Nithya kalyani.V1,Nithya kalyani.V,22SVSVNI,Nithya,kalyani,V,TEACHER,FEMALE,13-11-1986,O +ve,8838648419,8925123447,manithi.rakshan@gmail.com,"32/2 A Ramanathapuram street, kannankurichi main road,Hasthampatty,Salem-636008",
+,karthiga1,karthiga,23SVSCKA,Karthiga ,,Chinnappu ,TEACHER,FEMALE,02-09-1988,O+ve,9080670537,9080670537,karthigachinnappu@gmail.com,"237/5/157 H Mariammkovil street, Jagir Reddipatty, Salem - 636302",

@@ -1,0 +1,405 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj",
+        "projectName": "SonaNova.Api",
+        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj",
+        "packagesPath": "C:\\Users\\LORE TECHNOLOGY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LORE TECHNOLOGY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj": {
+                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj"
+              },
+              "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.105.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj",
+        "projectName": "SonaNova.Application",
+        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj",
+        "packagesPath": "C:\\Users\\LORE TECHNOLOGY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LORE TECHNOLOGY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj": {
+                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj"
+              },
+              "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "BCrypt.Net": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.105.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj",
+        "projectName": "SonaNova.Domain",
+        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj",
+        "packagesPath": "C:\\Users\\LORE TECHNOLOGY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LORE TECHNOLOGY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.105.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj",
+        "projectName": "SonaNova.Infrastructure",
+        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\LORE TECHNOLOGY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LORE TECHNOLOGY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj": {
+                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.105.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "System.Linq": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Text.Encodings.Web": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "System.Threading.Tasks": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\bin\Debug\net8.0\SonaNova.Domain.deps.json
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\bin\Debug\net8.0\SonaNova.Domain.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\bin\Debug\net8.0\SonaNova.Domain.pdb
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\obj\Debug\net8.0\SonaNova.Domain.csproj.AssemblyReference.cache
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\obj\Debug\net8.0\SonaNova.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\obj\Debug\net8.0\SonaNova.Domain.AssemblyInfoInputs.cache
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\obj\Debug\net8.0\SonaNova.Domain.AssemblyInfo.cs
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\obj\Debug\net8.0\SonaNova.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\obj\Debug\net8.0\SonaNova.Domain.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\obj\Debug\net8.0\refint\SonaNova.Domain.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\obj\Debug\net8.0\SonaNova.Domain.pdb
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Domain\obj\Debug\net8.0\ref\SonaNova.Domain.dll

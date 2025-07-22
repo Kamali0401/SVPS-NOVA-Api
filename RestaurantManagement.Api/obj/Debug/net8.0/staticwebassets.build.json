@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1G93M44sZ1TdJN7SUJ7ZozHg1L17x1SBctfWY99RZ4c=",
+  "Source": "SonaNova.Api",
+  "BasePath": "_content/SonaNova.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

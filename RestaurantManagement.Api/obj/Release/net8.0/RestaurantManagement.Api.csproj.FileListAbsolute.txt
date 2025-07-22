@@ -1,0 +1,119 @@
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\appsettings.Development.json
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\appsettings.json
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Api.exe
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Api.deps.json
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Api.runtimeconfig.json
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Api.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Api.pdb
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\AutoMapper.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\BCrypt.Net.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Dapper.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\System.Data.SqlClient.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\System.Text.Encodings.Web.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Application.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Domain.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Infrastructure.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Application.pdb
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Infrastructure.pdb
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Domain.pdb
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.csproj.AssemblyReference.cache
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.AssemblyInfoInputs.cache
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.AssemblyInfo.cs
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets\msbuild.RestaurantManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets\msbuild.build.RestaurantManagement.Api.props
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestaurantManagement.Api.props
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.RestaurantManagement.Api.props
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\scopedcss\bundle\RestaurantManagement.Api.styles.css
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\Restaura.008A8E10.Up2Date
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\refint\RestaurantManagement.Api.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.pdb
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.genruntimeconfig.cache
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Api\obj\Release\net8.0\ref\RestaurantManagement.Api.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\appsettings.Development.json
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\appsettings.json
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Api.exe
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Api.deps.json
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Api.runtimeconfig.json
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Api.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Api.pdb
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\AutoMapper.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\BCrypt.Net.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Dapper.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\System.Data.SqlClient.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\System.Text.Encodings.Web.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Application.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Domain.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Infrastructure.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Application.pdb
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Infrastructure.pdb
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\bin\Release\net8.0\RestaurantManagement.Domain.pdb
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.csproj.AssemblyReference.cache
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.AssemblyInfoInputs.cache
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.AssemblyInfo.cs
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.sourcelink.json
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets\msbuild.RestaurantManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets\msbuild.build.RestaurantManagement.Api.props
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.RestaurantManagement.Api.props
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.RestaurantManagement.Api.props
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\scopedcss\bundle\RestaurantManagement.Api.styles.css
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\Restaura.008A8E10.Up2Date
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\refint\RestaurantManagement.Api.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.pdb
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\RestaurantManagement.Api.genruntimeconfig.cache
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Api\obj\Release\net8.0\ref\RestaurantManagement.Api.dll
