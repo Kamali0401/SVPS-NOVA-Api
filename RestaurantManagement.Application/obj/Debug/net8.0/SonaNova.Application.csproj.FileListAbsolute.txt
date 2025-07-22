@@ -1,0 +1,17 @@
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\bin\Debug\net8.0\SonaNova.Application.deps.json
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\bin\Debug\net8.0\SonaNova.Application.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\bin\Debug\net8.0\SonaNova.Application.pdb
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\bin\Debug\net8.0\SonaNova.Domain.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\bin\Debug\net8.0\SonaNova.Infrastructure.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\bin\Debug\net8.0\SonaNova.Domain.pdb
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\bin\Debug\net8.0\SonaNova.Infrastructure.pdb
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\obj\Debug\net8.0\SonaNova.Application.csproj.AssemblyReference.cache
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\obj\Debug\net8.0\SonaNova.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\obj\Debug\net8.0\SonaNova.Application.AssemblyInfoInputs.cache
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\obj\Debug\net8.0\SonaNova.Application.AssemblyInfo.cs
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\obj\Debug\net8.0\SonaNova.Application.csproj.CoreCompileInputs.cache
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\obj\Debug\net8.0\SonaNova.10270547.Up2Date
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\obj\Debug\net8.0\SonaNova.Application.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\obj\Debug\net8.0\refint\SonaNova.Application.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\obj\Debug\net8.0\SonaNova.Application.pdb
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Application\obj\Debug\net8.0\ref\SonaNova.Application.dll

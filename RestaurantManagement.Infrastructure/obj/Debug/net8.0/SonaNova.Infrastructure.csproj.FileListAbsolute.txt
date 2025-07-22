@@ -1,0 +1,15 @@
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\bin\Debug\net8.0\SonaNova.Infrastructure.deps.json
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\bin\Debug\net8.0\SonaNova.Infrastructure.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\bin\Debug\net8.0\SonaNova.Infrastructure.pdb
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\bin\Debug\net8.0\SonaNova.Domain.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\bin\Debug\net8.0\SonaNova.Domain.pdb
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\obj\Debug\net8.0\SonaNova.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\obj\Debug\net8.0\SonaNova.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\obj\Debug\net8.0\SonaNova.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\obj\Debug\net8.0\SonaNova.Infrastructure.AssemblyInfo.cs
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\obj\Debug\net8.0\SonaNova.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\obj\Debug\net8.0\SonaNova.042E3EBB.Up2Date
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\obj\Debug\net8.0\SonaNova.Infrastructure.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\obj\Debug\net8.0\refint\SonaNova.Infrastructure.dll
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\obj\Debug\net8.0\SonaNova.Infrastructure.pdb
+C:\Users\LORE TECHNOLOGY\Documents\kamali\SonaNova-Api\RestaurantManagement.Infrastructure\obj\Debug\net8.0\ref\SonaNova.Infrastructure.dll

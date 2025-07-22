@@ -1,0 +1,31 @@
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\bin\Release\net8.0\RestaurantManagement.Infrastructure.deps.json
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\bin\Release\net8.0\RestaurantManagement.Infrastructure.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\bin\Release\net8.0\RestaurantManagement.Infrastructure.pdb
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\bin\Release\net8.0\RestaurantManagement.Domain.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\bin\Release\net8.0\RestaurantManagement.Domain.pdb
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\obj\Release\net8.0\Restaura.1B2BE49D.Up2Date
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\obj\Release\net8.0\refint\RestaurantManagement.Infrastructure.dll
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.pdb
+C:\Users\loret\source\repos\RestaurantManagement\RestaurantManagement.Infrastructure\obj\Release\net8.0\ref\RestaurantManagement.Infrastructure.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\bin\Release\net8.0\RestaurantManagement.Infrastructure.deps.json
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\bin\Release\net8.0\RestaurantManagement.Infrastructure.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\bin\Release\net8.0\RestaurantManagement.Infrastructure.pdb
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\bin\Release\net8.0\RestaurantManagement.Domain.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\bin\Release\net8.0\RestaurantManagement.Domain.pdb
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.sourcelink.json
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\obj\Release\net8.0\Restaura.1B2BE49D.Up2Date
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\obj\Release\net8.0\refint\RestaurantManagement.Infrastructure.dll
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\obj\Release\net8.0\RestaurantManagement.Infrastructure.pdb
+C:\Users\LORE TECHNOLOGY\source\repos\restaurantApi\RestaurantManagement.Infrastructure\obj\Release\net8.0\ref\RestaurantManagement.Infrastructure.dll
