@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Net;
 using System.Data.SqlClient;
 using RestaurantManagement.Application.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 
 namespace RestaurantManagement.Api.Controllers
 {
@@ -11,6 +12,7 @@ namespace RestaurantManagement.Api.Controllers
     /// </summary>
     [Route("api/holidayCalendar")]
     [ApiController]
+    [Authorize]
     public class HolidayCalendarController : SonaNovaControllerBase
     {
 

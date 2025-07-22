@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using RestaurantManagement.Api.Controllers;
 using RestaurantManagement.Application.Interfaces;
@@ -16,6 +17,7 @@ namespace SonaNova.Api.Controllers
   /// </summary>
     [Route("api/infogalore")]
     [ApiController]
+    [Authorize]
     public class InfoGaloreController : SonaNovaControllerBase
     {
        

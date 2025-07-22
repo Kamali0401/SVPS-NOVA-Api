@@ -1,4 +1,5 @@
 ﻿using DocumentFormat.OpenXml.Office2010.Excel;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using RestaurantManagement.Api.Controllers;
 using SonaNova.Application.Dtos;
@@ -12,6 +13,7 @@ namespace SonaNova.Api.Controllers
  /// </summary>
     [Route("api/studentFeedback")]
     [ApiController]
+    [Authorize]
     public class StudentFeedbackController : SonaNovaControllerBase
     {
        

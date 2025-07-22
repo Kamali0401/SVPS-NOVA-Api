@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using RestaurantManagement.Api.Controllers;
 using SonaNova.Application.Dtos;
 using SonaNova.Application.Interfaces;
@@ -13,6 +14,7 @@ namespace SonaNova.Api.Controllers
   /// </summary>
     [Route("api/Announcement")]
     [ApiController]
+    [Authorize]
     public class AnnouncementController : SonaNovaControllerBase
     {
        

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using RestaurantManagement.Api.Controllers;
 using SonaNova.Application.Interfaces;
 using System.Data.SqlClient;
@@ -10,6 +11,7 @@ namespace SonaNova.Api.Controllers
  /// </summary>
   [Route("api/attendancereports")]
     [ApiController]
+    [Authorize]
     public class AttendanceReportController : SonaNovaControllerBase
     {
         

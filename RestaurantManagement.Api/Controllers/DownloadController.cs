@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Cors;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using RestaurantManagement.Api.Controllers;
 using RestaurantManagement.Application.Common;
@@ -15,6 +16,7 @@ namespace SonaNova.Api.Controllers
     /// </summary>
     [Route("api/downloads")]
     [ApiController]
+    [Authorize]
     public class DownloadController : SonaNovaControllerBase
     {
 

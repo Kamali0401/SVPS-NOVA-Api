@@ -5,6 +5,7 @@ using System.Data.SqlClient;
 using RestaurantManagement.Application.Interfaces;
 using SonaNova.Application.Dtos;
 using RestaurantManagement.Application.Services;
+using Microsoft.AspNetCore.Authorization;
 
 namespace RestaurantManagement.Api.Controllers
 {
@@ -13,6 +14,7 @@ namespace RestaurantManagement.Api.Controllers
     /// </summary>
     [Route("api/houseActivity")]
     [ApiController]
+    [Authorize]
     public class HouseActivityController : SonaNovaControllerBase
     {
 

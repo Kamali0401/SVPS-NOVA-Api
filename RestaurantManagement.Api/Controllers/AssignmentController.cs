@@ -7,6 +7,7 @@ using SonaNova.Application.Dtos;
 using RestaurantManagement.Application.Interfaces;
 using RestaurantManagement.Application.Services;
 using System.IO.Compression;
+using Microsoft.AspNetCore.Authorization;
 
 namespace RestaurantManagement.Api.Controllers
 {
@@ -15,6 +16,7 @@ namespace RestaurantManagement.Api.Controllers
     /// </summary>
     [Route("api/assignment")]
     [ApiController]
+    [Authorize]
     public class AssignmentController : SonaNovaControllerBase
     {
 

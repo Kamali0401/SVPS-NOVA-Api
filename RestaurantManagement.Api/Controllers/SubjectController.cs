@@ -4,6 +4,7 @@ using System.Net;
 using System.Data.SqlClient;
 using RestaurantManagement.Application.Interfaces;
 using RestaurantManagement.Application.Services;
+using Microsoft.AspNetCore.Authorization;
 
 namespace RestaurantManagement.Api.Controllers
 {
@@ -12,6 +13,7 @@ namespace RestaurantManagement.Api.Controllers
     /// </summary>
     [Route("api/subject")]
     [ApiController]
+    [Authorize]
     public class SubjectController : SonaNovaControllerBase
     {
 

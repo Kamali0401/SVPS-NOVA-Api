@@ -17,6 +17,7 @@ namespace SonaNova.Api.Controllers
     /// </summary>
     [Route("api/changePassword")]
     [ApiController]
+    [Authorize]
     public class ChangePasswordController : SonaNovaControllerBase
     {
 

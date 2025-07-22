@@ -7,6 +7,7 @@ using SonaNova.Application.Dtos;
 using RestaurantManagement.Application.Services;
 using RestaurantManagement.Domain.Entities;
 using DocumentFormat.OpenXml.Office2010.Excel;
+using Microsoft.AspNetCore.Authorization;
 
 namespace RestaurantManagement.Api.Controllers
 {
@@ -15,6 +16,7 @@ namespace RestaurantManagement.Api.Controllers
     /// </summary>
     [Route("api/upcomingCompetition")]
     [ApiController]
+    [Authorize]
     public class UpcomingCompetitionController : SonaNovaControllerBase
     {
 

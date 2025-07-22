@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using RestaurantManagement.Application.Dtos;
 using RestaurantManagement.Application.Interfaces;
 using RestaurantManagement.Application.Services;
@@ -13,6 +14,7 @@ namespace RestaurantManagement.Api.Controllers
     /// </summary>
     [Route("api/faculty")]
     [ApiController]
+    [Authorize]
     public class FacultyController : SonaNovaControllerBase
     {
         private readonly IFacultyService _FacultyService;
