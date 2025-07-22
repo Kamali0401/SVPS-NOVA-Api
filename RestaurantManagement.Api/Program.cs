@@ -11,7 +11,9 @@ using SonaNova.Infrastructure.Interfaces;
 using SonaNova.Infrastructure.Repositories;
 using Microsoft.Extensions.Options;
 using RestaurantManagement.Application.Common;
-
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;
@@ -107,6 +109,23 @@ services.AddCors(options =>
 
 services.AddLocalization();
 services.AddMvc();
+services.AddAuthentication(opt =>
+{
+    opt.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    opt.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(opt =>
+{
+    opt.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(builder.Configuration["JWTSettings:SecretKey"])),
+        ValidateIssuer = true,
+        ValidIssuer = builder.Configuration["JWTSettings:Issuer"],
+        ValidateAudience = true,
+        ValidAudience = builder.Configuration["JWTSettings:Audience"]
+    };
+});
 services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "SonaNova.API", Version = "v1" });
@@ -143,7 +162,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.UseCors("MyAllowSpecificOrigins");

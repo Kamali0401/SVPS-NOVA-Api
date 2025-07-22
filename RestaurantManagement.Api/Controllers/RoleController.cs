@@ -13,6 +13,7 @@ namespace RestaurantManagement.Api.Controllers
     [Route("api/role")]
     [ApiController]
     [Authorize]
+   
     public class RoleController : SonaNovaControllerBase
     {
 
@@ -35,6 +36,7 @@ namespace RestaurantManagement.Api.Controllers
         /// The response with a collection of roleDto DTOs if successful, or a problem 
         /// details object indicating the error if the operation fails.
         /// </returns>
+        [AllowAnonymous]
         [HttpGet]
         [ProducesResponseType(200, Type = typeof(IEnumerable<RoleDto>))]
         [ProducesResponseType(typeof(ProblemDetails), (int)HttpStatusCode.BadRequest)]
