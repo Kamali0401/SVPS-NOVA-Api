@@ -192,9 +192,9 @@
 /RestaurantManagement.Infrastructure/bin/Debug/net8.0/RestaurantManagement.Domain.pdb
 /RestaurantManagement.Infrastructure/bin/Debug/net8.0/RestaurantManagement.Infrastructure.dll
 /RestaurantManagement.Infrastructure/bin/Debug/net8.0/RestaurantManagement.Infrastructure.pdb
-/RestaurantManagement.Application
+
 /RestaurantManagement.Domain/bin/Debug/net8.0
-/RestaurantManagement.Infrastructure
+
 =======
 >>>>>>> feaa33316f5cc20f458a11cfd26b4b2cdc1ea358
 /RestaurantManagement.Domain/obj/Debug/net8.0/RestaurantManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
