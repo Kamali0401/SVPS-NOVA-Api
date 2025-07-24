@@ -215,7 +215,7 @@ namespace SonaNova.Infrastructure.Repositories
                         strfilepath = GenerateExcelSheet(ds.Tables[0],
                         ds.Tables[1],
                         ds.Tables[2],
-                        ds.Tables[3], "Daily Attendance Report- Grade:" + grade + "/ Section: " + section, month);
+                        "Daily Attendance Report- Grade:" + grade + "/ Section: " + section, month);
                     }
 
                 }
@@ -388,7 +388,7 @@ namespace SonaNova.Infrastructure.Repositories
 
 
 
-        private string GenerateExcelSheet(DataTable dataTable, DataTable table2, DataTable table3, DataTable table4, string reportname, int month)
+        private string GenerateExcelSheet(DataTable dataTable, DataTable table2, DataTable table3,  string reportname, int month)
         {
             string folderPath = Path.Combine(Directory.GetCurrentDirectory(), "Data");
             string filePath = Path.Combine(folderPath, "Report.xlsx");
@@ -471,26 +471,23 @@ namespace SonaNova.Infrastructure.Repositories
                 int totalDays = table2.Rows.Count;
                 //int totalDaysColumn = table2.Column.Count;
                 int dayColumnStart = 4;
-                /*for (int i = 0; i < totalDays; i++)
-                {
-                    int day = Convert.ToInt32(table2.Rows[i]["Day"]); // Get the day value from table2
-                    worksheet.Cell(summaryRowStart, dayColumnStart + i).Value = day.ToString(); // Day header
-                    worksheet.Cell(summaryRowStart, dayColumnStart + i).Style.Font.SetBold();
-                }*/
-
-                // Populate Students Present based on Day column from table2
+               
                 for (int i = 0; i < totalDays; i++)
                 {
-                    int studentsPresent = Convert.ToInt32(table2.Rows[i]["StudentsPresent"]); // Get Students Present value
+                    int morningPresent = Convert.ToInt32(table2.Rows[i]["StudentsPresentMorning"]);
+                    int eveningPresent = Convert.ToInt32(table2.Rows[i]["StudentsPresentEvening"]);
 
-                    worksheet.Cell(summaryRowStart, dayColumnStart + i).Value = studentsPresent;       // Morning (moved up by 1 row)
-                    worksheet.Cell(summaryRowStart + 1, dayColumnStart + i).Value = studentsPresent;   // Evening (moved up by 1 row)
+                    worksheet.Cell(summaryRowStart, dayColumnStart + i).Value = morningPresent;        // Morning row
+                    worksheet.Cell(summaryRowStart + 1, dayColumnStart + i).Value = eveningPresent;    // Evening row
                 }
 
-                // Adjust styling and formatting for the new range
-                worksheet.Range(summaryRowStart, dayColumnStart, summaryRowStart + 1, dayColumnStart + totalDays - 1).Style.Border.OutsideBorder = XLBorderStyleValues.Thin;
-                worksheet.Range(summaryRowStart, dayColumnStart, summaryRowStart + 1, dayColumnStart + totalDays - 1).Style.Border.InsideBorder = XLBorderStyleValues.Thin;
-                worksheet.Range(summaryRowStart, dayColumnStart, summaryRowStart + 1, dayColumnStart + totalDays - 1).Style.Alignment.SetVertical(XLAlignmentVerticalValues.Center);
+                // Apply borders and vertical alignment
+                worksheet.Range(summaryRowStart, dayColumnStart, summaryRowStart + 1, dayColumnStart + totalDays - 1)
+                         .Style.Border.OutsideBorder = XLBorderStyleValues.Thin;
+                worksheet.Range(summaryRowStart, dayColumnStart, summaryRowStart + 1, dayColumnStart + totalDays - 1)
+                         .Style.Border.InsideBorder = XLBorderStyleValues.Thin;
+                worksheet.Range(summaryRowStart, dayColumnStart, summaryRowStart + 1, dayColumnStart + totalDays - 1)
+                         .Style.Alignment.SetVertical(XLAlignmentVerticalValues.Center);
 
                 summaryRowStart = summaryRowStart + 2;
                 worksheet.Cell(summaryRowStart, 1).Value = "Initials Of Teachers";
@@ -501,51 +498,19 @@ namespace SonaNova.Infrastructure.Repositories
 
                 // Calculate total students
                 int totalStudents = 0;
-                if (table2.Rows.Count > 0 && table2.Columns.Contains("TotalStudents"))
-                {
-                    totalStudents = Convert.ToInt32(table2.Rows[0]["TotalStudents"]);
-                }
-
                 int newJoinedCount = 0;
-                if (table3.Columns.Contains("StudentCount"))
-                {
-                    foreach (DataRow row in table3.Rows)
-                    {
-                        //newJoinedCount += Convert.ToInt32(row["StudentCount"]);
-                        if (int.TryParse(row["StudentCount"]?.ToString(), out int studentCount))
-                        {
-                            newJoinedCount += studentCount;
-                        }
-                    }
-                }
-
-
                 int LeftStudnetCount = 0;
-                if (table4.Columns.Contains("StudentCount"))
+                if (table3.Rows.Count > 0)
                 {
-                    foreach (DataRow row in table4.Rows)
-                    {
-                        //newJoinedCount += Convert.ToInt32(row["StudentCount"]);
-                        if (int.TryParse(row["StudentCount"]?.ToString(), out int studentCount))
-                        {
-                            LeftStudnetCount += studentCount;
-                        }
-                    }
+                    var row = table3.Rows[0];
+                    totalStudents = Convert.ToInt32(row["EarlyStudentCount"]);
+                    newJoinedCount = Convert.ToInt32(row["NewlyJoinedStudentCount"]);
+                    LeftStudnetCount = Convert.ToInt32(row["LeftStudentCount"]);
                 }
+
+               
                 int totalEnrolled = totalStudents + newJoinedCount - LeftStudnetCount;
-                // Calculate total working days
-                /*int totalWorkingDays = 0;
-                if (table2.Rows.Count > 0 && table2.Columns.Contains("StudentsPresent"))
-                {
-                    foreach (DataRow row in table2.Rows)
-                    {
-                        if (int.TryParse(row["StudentsPresent"]?.ToString(), out int studentsPresent) && studentsPresent > 0)
-                        {
-                            totalWorkingDays++;
-                        }
-                    }
-                }
-                */
+               
                 int dayColumn = 0;
                 int dayColumnEnd = 0;
 
@@ -605,14 +570,14 @@ namespace SonaNova.Infrastructure.Repositories
                 // 6. Monthly Summary Rows
                 int rollSummaryStart = summaryRowStart + 2;
                 worksheet.Cell(rollSummaryStart, 1).Value =
-                $"No. on Roll at the beginning of Month: {totalStudents}  No. of School Days: {totalWorkingDays}   Average No. on Roll: {averageNoOnRoll}";
+                $"No. on Roll at the beginning of Month: {totalStudents}  No. of School Days: {totalWorkingDays}   Average No. on Roll: {averageNoOnRoll:F2}";
                 worksheet.Range(rollSummaryStart, 1, rollSummaryStart, totalColumns - 8).Merge();
 
                 // Calculate the number of students admitted during the month from table3
 
                 // Add the calculated value for "Admitted during the month" to the summary
                 worksheet.Cell(rollSummaryStart + 1, 1).Value =
-                    $"Admitted during the month: {newJoinedCount}   Left: {LeftStudnetCount}   Average Attendance: {averageAttendance}   During Month: {monthName}";
+                    $"Admitted during the month: {newJoinedCount}   Left: {LeftStudnetCount}   Average Attendance: {averageAttendance:F2}   During Month: {monthName}";
                 worksheet.Range(rollSummaryStart + 1, 1, rollSummaryStart + 1, totalColumns - 8).Merge();
 
                 worksheet.Cell(rollSummaryStart + 2, 1).Value = $"No. on Roll at the end of: {totalEnrolled}     During Month: {monthName} ";

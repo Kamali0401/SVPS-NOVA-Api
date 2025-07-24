@@ -110,7 +110,7 @@ namespace SonaNova.Infrastructure.Repositories
                             writer.WriteStartElement("Param");
                             writer.WriteElementString("StudentId", attendance[i].StudentId.ToString());
                             writer.WriteElementString("SectionId", attendance[i].SectionId.ToString());
-                            writer.WriteElementString("Date", attendance[i].Date.ToString("MM/dd/yyyy"));
+                            writer.WriteElementString("Date", attendance[i].Date.ToString("dd/MM/yyyy"));
                             writer.WriteElementString("IsPresent", attendance[i].IsPresent.ToString());
                             writer.WriteElementString("Hoursday", hours[j].ToString());
                             writer.WriteElementString("CreatedBy", attendance[i].CreatedBy.ToString());

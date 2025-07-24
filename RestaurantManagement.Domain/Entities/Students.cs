@@ -27,12 +27,12 @@ namespace RestaurantManagement.Domain.Entities
         /// Date of Joining.
         /// </summary>
         [JsonPropertyName("dOJ")]
-        public string DOJ { get; set; }
+        public string DOJ { get; set; } = string.Empty;
         /// <summary>
         /// Date of Joining.
         /// </summary>
         [JsonPropertyName("dOL")]
-        public string DOL { get; set; }
+        public string DOL { get; set; } = string.Empty;
 
         /// <summary>
         /// First name of the student.
