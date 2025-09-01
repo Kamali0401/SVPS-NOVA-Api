@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SonaNova.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09f8c787097adfceadc14dd71228ea6c08ffa815")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e14f57313e24a4db616d5b4e0e7cfd8e783bf6c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SonaNova.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SonaNova.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj": {}
+    "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj": {
+    "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj",
+        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj",
         "projectName": "SonaNova.Api",
-        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj",
+        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Api\\SonaNova.Api.csproj",
         "packagesPath": "C:\\Users\\LORE TECHNOLOGY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Api\\obj\\",
+        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LORE TECHNOLOGY\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj": {
-                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj"
+              "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj": {
+                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj"
               },
-              "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj"
+              "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj"
               }
             }
           }
@@ -60,6 +60,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.1.35, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             },
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
@@ -105,14 +109,14 @@
         }
       }
     },
-    "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj": {
+    "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj",
+        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj",
         "projectName": "SonaNova.Application",
-        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj",
+        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Application\\SonaNova.Application.csproj",
         "packagesPath": "C:\\Users\\LORE TECHNOLOGY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Application\\obj\\",
+        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LORE TECHNOLOGY\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,11 +134,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj": {
-                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj"
+              "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj": {
+                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj"
               },
-              "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj"
+              "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj"
               }
             }
           }
@@ -211,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj": {
+    "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj",
         "projectName": "SonaNova.Domain",
-        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj",
+        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj",
         "packagesPath": "C:\\Users\\LORE TECHNOLOGY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\obj\\",
+        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LORE TECHNOLOGY\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -290,14 +294,14 @@
         }
       }
     },
-    "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj": {
+    "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj",
         "projectName": "SonaNova.Infrastructure",
-        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Infrastructure\\SonaNova.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\LORE TECHNOLOGY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LORE TECHNOLOGY\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -315,8 +319,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj": {
-                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\Documents\\kamali\\SonaNova-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj"
+              "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj": {
+                "projectPath": "C:\\Users\\LORE TECHNOLOGY\\source\\repos\\SVPS-NOVA-Api\\RestaurantManagement.Domain\\SonaNova.Domain.csproj"
               }
             }
           }
